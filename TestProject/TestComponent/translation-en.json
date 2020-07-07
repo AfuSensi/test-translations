@@ -1,0 +1,18 @@
+{
+    "teamname": "Name of the team.",
+    "empty": "Empty! No entries added yet.",
+    "ok": "Ok.",
+    "amountleft": "You have %s GreenCoins left",
+    "welcomeback": "Welcome back, %s",
+    "hello": "Hello and welcome to the Grand Guide to GreenCoins!\n\n",
+    "how1": "WTF are Green-Coins?",
+    "how2": "They are a currency used by the Mr. Green community. We created a global database where players can connect their Green-Coins to one account, and use them on different game servers.\n\n",
+    "how3": "What can I do with Green-Coins in MTA?\n",
+    "how4": "You can buy car mods, skins, or other fancy stuff that you can use ingame!\n\n",
+    "how5": "What do I need to get Green-Coins?\n",
+    "how6": "You need to register a Green-Coins account, go to the \"Register\" tab for more info.\n\n",
+    "how7": "How do I get Green-Coins?",
+    "how8": "You can donate. For each euro donated you get 1000 GreenCoins.\n",
+    "how9": "How do I donate?\n",
+    "how10": "Go to mrgreengaming.com and click\"Green-Coins\".\n\nIf you log into your account, you see a conveniently placed button that says \"Send donation\".\n\nJust follow the simple instructions on there and you're done!\n"
+}
