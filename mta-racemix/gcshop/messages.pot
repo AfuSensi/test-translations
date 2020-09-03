@@ -372,10 +372,6 @@ msgstr ""
 msgid "Custom paintjob image ${file} is not a valid image"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:228
-msgid "This upgrade is not added: ${model} + ${upgrade}"
-msgstr ""
-
 #: resources/[gameplay]/gcshop/modshop/modshop_c.lua:17
 msgid "You should register and log in to buy vehicles and upgrade them"
 msgstr ""

@@ -31,8 +31,3 @@ msgstr ""
 #: resources/[gameplay]/joinquit/joinquit_server.lua:272
 msgid "timed out"
 msgstr ""
-
-#: resources/[gameplay]/joinquit/joinquit_server.lua:280
-msgctxt "location"
-msgid "from"
-msgstr ""
